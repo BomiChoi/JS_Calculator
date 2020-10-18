@@ -1,7 +1,3 @@
-// <⚠️ DONT DELETE THIS ⚠️>
-import "./styles.css";
-// <⚠️ /DONT DELETE THIS ⚠️>
-
 const currenttxt = document.querySelector(".current");
 const anstxt = document.querySelector(".ans");
 const numbers = document.querySelectorAll(".number");
